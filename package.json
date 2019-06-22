@@ -1,0 +1,29 @@
+{
+  "name": "discordinvites",
+  "version": "0.0.0",
+  "description": "Read Discord Invites (In Browser and in Node!)",
+  "main": "./dist/discord-invites.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourNetworkNerd/DiscordInvites.git"
+  },
+  "keywords": [
+    "discord",
+    "invites",
+    "typescript",
+    "javascript"
+  ],
+  "author": "YourNetworkNerd (https://twitter.com/YourNetworkNerd)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YourNetworkNerd/DiscordInvites/issues"
+  },
+  "homepage": "https://github.com/YourNetworkNerd/DiscordInvites#readme",
+  "devDependencies": {
+    "@types/node": "^12.0.10",
+    "typescript": "^3.5.2"
+  }
+}
