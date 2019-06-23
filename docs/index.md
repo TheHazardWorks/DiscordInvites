@@ -28,7 +28,7 @@ import parseDiscordInvite from './discord-invite';
 let inviteData = parseDiscordInvite('https://discord.gg/example');
 ```
 
-What this returns (I will use my own server for example):
+What this returns:
 ```js
 // Verification Levels Legend:
 // 0 = None
