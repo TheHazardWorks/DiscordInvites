@@ -4,6 +4,7 @@
   "description": "Read Discord Invites (In Browser and in Node!)",
   "main": "./dist/discord-invites.js",
   "scripts": {
+    "setup": "npm install -d",
     "compile": "tsc"
   },
   "repository": {
